@@ -1,6 +1,16 @@
 # Mcute
 
-# How to Play Mcute
+# 1.【Technical Support】
+
+The problems encountered in the game can be feedback to me in the following ways:
+
+Email：zack@grossbart.com
+
+TEl: +1 514889235
+
+
+
+# 2.【How to Play Mcute】
 
 In the year 2317, Gold Stars are the most precious resource in the galaxy. They can only be created in specialized hex forges, by combining geometric shapes. You are a Merger, a skilled artisan tasked with the creation and harvesting of Gold Stars. Using the hex forge, you producing shapes with increasing number of sides, until finally the precious Gold Stars are ready to be harvested.
 
