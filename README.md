@@ -6,7 +6,7 @@ In the year 2317, Gold Stars are the most precious resource in the galaxy. They 
 
 Unfortunately for you, the Gel, a race of semi-intelligent jelly beans, have infested the shape silos, and have begun to infect shapes with their gelatinous anti-geometry...
 
-Mergel is a puzzle game in which you place shapes to score points. Matching together three or more of the same shape causes the shapes to "merge" together, forming the next shape in the series. Triangles become squares, squares become pentagons, etc. The more shapes which merge together to form a new one, the more points you earn!
+Mcute is a puzzle game in which you place shapes to score points. Matching together three or more of the same shape causes the shapes to "merge" together, forming the next shape in the series. Triangles become squares, squares become pentagons, etc. The more shapes which merge together to form a new one, the more points you earn!
 
 TODO: video clip of shapes merging
 
