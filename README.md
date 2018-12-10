@@ -1,6 +1,7 @@
 # Mcute
 
-#How to Play Mcute
+# How to Play Mcute
+
 In the year 2317, Gold Stars are the most precious resource in the galaxy. They can only be created in specialized hex forges, by combining geometric shapes. You are a Merger, a skilled artisan tasked with the creation and harvesting of Gold Stars. Using the hex forge, you producing shapes with increasing number of sides, until finally the precious Gold Stars are ready to be harvested.
 
 Unfortunately for you, the Gel, a race of semi-intelligent jelly beans, have infested the shape silos, and have begun to infect shapes with their gelatinous anti-geometry...
